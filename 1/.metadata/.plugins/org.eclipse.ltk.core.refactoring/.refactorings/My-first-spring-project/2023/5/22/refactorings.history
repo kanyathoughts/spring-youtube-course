@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;io.firstPackage.topics&apos; to &apos;Spring_from_Starter_Maven/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;My-first-spring-project&apos;&#x0D;&#x0A;- Destination element: &apos;Spring_from_Starter_Maven/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;My-first-spring-project/src/main/java/io.firstPackage.topics&apos;" description="Copy package" destination="=Spring_from_Starter_Maven/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;io.firstPackage.topics" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1685257189990" version="1.0"/>
+</session>
